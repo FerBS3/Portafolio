@@ -174,3 +174,12 @@ footer{
   width: 300px;
   margin-top: 1em;
 }
+
+.VideoContainer{
+  display: flex;
+  background-color: black;
+  justify-content: center;
+  justify-items: center;
+  height: 100vh;
+}
+
